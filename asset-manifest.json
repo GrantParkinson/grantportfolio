@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/grantportfolio/static/css/main.a617e044.chunk.css",
+    "main.js": "/grantportfolio/static/js/main.a5379402.chunk.js",
+    "main.js.map": "/grantportfolio/static/js/main.a5379402.chunk.js.map",
+    "runtime-main.js": "/grantportfolio/static/js/runtime-main.dfafdcd7.js",
+    "runtime-main.js.map": "/grantportfolio/static/js/runtime-main.dfafdcd7.js.map",
+    "static/js/2.1d857465.chunk.js": "/grantportfolio/static/js/2.1d857465.chunk.js",
+    "static/js/2.1d857465.chunk.js.map": "/grantportfolio/static/js/2.1d857465.chunk.js.map",
+    "static/js/3.f2c252c6.chunk.js": "/grantportfolio/static/js/3.f2c252c6.chunk.js",
+    "static/js/3.f2c252c6.chunk.js.map": "/grantportfolio/static/js/3.f2c252c6.chunk.js.map",
+    "index.html": "/grantportfolio/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/grantportfolio/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.1d857465.chunk.js.LICENSE.txt": "/grantportfolio/static/js/2.1d857465.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/grantportfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfafdcd7.js",
+    "static/js/2.1d857465.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.a5379402.chunk.js"
+  ]
+}
