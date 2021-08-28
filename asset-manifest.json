@@ -1,25 +1,31 @@
 {
   "files": {
-    "main.css": "/grantportfolio/static/css/main.a617e044.chunk.css",
-    "main.js": "/grantportfolio/static/js/main.4cfcb173.chunk.js",
-    "main.js.map": "/grantportfolio/static/js/main.4cfcb173.chunk.js.map",
-    "runtime-main.js": "/grantportfolio/static/js/runtime-main.c8a3854a.js",
-    "runtime-main.js.map": "/grantportfolio/static/js/runtime-main.c8a3854a.js.map",
+    "main.css": "/grantportfolio/static/css/main.3bd04ef0.chunk.css",
+    "main.js": "/grantportfolio/static/js/main.148e3cd9.chunk.js",
+    "main.js.map": "/grantportfolio/static/js/main.148e3cd9.chunk.js.map",
+    "runtime-main.js": "/grantportfolio/static/js/runtime-main.74169ccf.js",
+    "runtime-main.js.map": "/grantportfolio/static/js/runtime-main.74169ccf.js.map",
     "static/css/2.da1eef19.chunk.css": "/grantportfolio/static/css/2.da1eef19.chunk.css",
-    "static/js/2.3f349626.chunk.js": "/grantportfolio/static/js/2.3f349626.chunk.js",
-    "static/js/2.3f349626.chunk.js.map": "/grantportfolio/static/js/2.3f349626.chunk.js.map",
-    "static/js/3.be939463.chunk.js": "/grantportfolio/static/js/3.be939463.chunk.js",
-    "static/js/3.be939463.chunk.js.map": "/grantportfolio/static/js/3.be939463.chunk.js.map",
+    "static/js/2.145def16.chunk.js": "/grantportfolio/static/js/2.145def16.chunk.js",
+    "static/js/2.145def16.chunk.js.map": "/grantportfolio/static/js/2.145def16.chunk.js.map",
+    "static/js/3.b72cef8a.chunk.js": "/grantportfolio/static/js/3.b72cef8a.chunk.js",
+    "static/js/3.b72cef8a.chunk.js.map": "/grantportfolio/static/js/3.b72cef8a.chunk.js.map",
     "index.html": "/grantportfolio/index.html",
     "static/css/2.da1eef19.chunk.css.map": "/grantportfolio/static/css/2.da1eef19.chunk.css.map",
-    "static/css/main.a617e044.chunk.css.map": "/grantportfolio/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.3f349626.chunk.js.LICENSE.txt": "/grantportfolio/static/js/2.3f349626.chunk.js.LICENSE.txt"
+    "static/css/main.3bd04ef0.chunk.css.map": "/grantportfolio/static/css/main.3bd04ef0.chunk.css.map",
+    "static/js/2.145def16.chunk.js.LICENSE.txt": "/grantportfolio/static/js/2.145def16.chunk.js.LICENSE.txt",
+    "static/media/Group1.3caf8eb8.png": "/grantportfolio/static/media/Group1.3caf8eb8.png",
+    "static/media/grant-cutout.8114e794.png": "/grantportfolio/static/media/grant-cutout.8114e794.png",
+    "static/media/nyt-api.967b50b7.png": "/grantportfolio/static/media/nyt-api.967b50b7.png",
+    "static/media/open-weather.ded0d94a.png": "/grantportfolio/static/media/open-weather.ded0d94a.png",
+    "static/media/record-manager.ddea374d.png": "/grantportfolio/static/media/record-manager.ddea374d.png",
+    "static/media/uffdalogo2.b362fcc7.jpg": "/grantportfolio/static/media/uffdalogo2.b362fcc7.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8a3854a.js",
+    "static/js/runtime-main.74169ccf.js",
     "static/css/2.da1eef19.chunk.css",
-    "static/js/2.3f349626.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.4cfcb173.chunk.js"
+    "static/js/2.145def16.chunk.js",
+    "static/css/main.3bd04ef0.chunk.css",
+    "static/js/main.148e3cd9.chunk.js"
   ]
 }
