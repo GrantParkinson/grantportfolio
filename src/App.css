@@ -36,3 +36,146 @@
     transform: rotate(360deg);
   }
 }
+/* body {
+  background-color: black;
+} */
+.header {
+  color: white;
+  background-color: rgb(49, 61, 74);
+  font-size: 60px;
+  font-family: "Teko", sans-serif;
+}
+.btn {
+  font-size: 25px;
+  text-align: center;
+}
+.intro {
+  background-color: #435971;
+}
+.intro a {
+  text-decoration: none;
+}
+.oval-thought {
+  position: relative;
+  width: 270px;
+  padding: 50px 40px;
+  margin: 1em auto 80px;
+  text-align: center;
+  color: #fff;
+  background: #075698;
+  font-family: "Teko", sans-serif;
+  /* css3 */
+  background: -webkit-gradient(linear, 0 0, 0 100%, from(#2e88c4), to(#075698));
+  background: -moz-linear-gradient(#2e88c4, #075698);
+  background: -o-linear-gradient(#2e88c4, #075698);
+  background: linear-gradient(#2e88c4, #075698);
+  -moz-border-radius: 220px / 120px;
+  border-radius: 220px / 120px;
+}
+.oval-thought p {
+  font-size: 30px;
+}
+/* creates the larger circle */
+.oval-thought:before {
+  content: "";
+  position: absolute;
+  bottom: -20px;
+  left: 50px;
+  width: 30px;
+  height: 30px;
+  background: #075698;
+  /* css3 */
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+}
+
+/* creates the smaller circle */
+.oval-thought:after {
+  content: "";
+  position: absolute;
+  bottom: -30px;
+  left: 30px;
+  width: 15px;
+  height: 15px;
+  background: #075698;
+  /* css3 */
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+}
+.about-me {
+  font-family: "Kaisei Opti", serif;
+  color: white;
+  background-color: rgb(49, 61, 74) !important;
+}
+
+.card img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+.card {
+  font-family: "Kaisei Opti", serif;
+}
+.card:hover {
+  transform: scale(1.05);
+}
+.projectTitle {
+  color: white;
+  font-family: "Teko", sans-serif;
+  font-size: 120px;
+}
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgb(49, 61, 74);
+}
+
+.clients {
+  background-color: #435971;
+}
+.clientpoco {
+  height: 300px;
+  width: 500px;
+}
+.clientuffda {
+  height: 300px;
+  width: 500px;
+}
+.clients-worked {
+  font-family: "Teko", sans-serif;
+  font-size: 120px;
+  color: white;
+}
+.contactme {
+  background-color: rgb(49, 61, 74);
+}
+.contactMeTitle {
+  font-family: "Teko", sans-serif;
+  font-size: 120px;
+  color: white;
+}
+.contactcard {
+  background-color: #435971;
+  color: white;
+  height: 250px;
+  border-radius: 25px;
+  font-family: "Kaisei Opti", serif;
+}
+.contactcard a {
+  text-decoration: none;
+  color: white;
+}
+.contactcard a:hover {
+  color: white;
+}
+.contactform {
+  background-color: #435971;
+  border-radius: 25px;
+  color: white;
+  font-family: "Kaisei Opti", serif;
+}
+.footer {
+  color: white;
+}

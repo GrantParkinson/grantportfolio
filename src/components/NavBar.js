@@ -6,9 +6,10 @@ class NavBar extends Component {
     render() {
         return(
             <div>
+              
               <Navbar bg="dark" variant="dark">
                 <Container>
-                  <Navbar.Brand href="www.hltv.org">Grant's portfolio site</Navbar.Brand>
+                  <Navbar.Brand href="">Grant's portfolio site</Navbar.Brand>
                   <Navbar.Toggle aria-controls="basic-navbar-nav" />
                   <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="ml-auto">
